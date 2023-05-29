@@ -1,0 +1,21 @@
+{
+    "msgEmail":"Invalid email",
+    "msgPass":"Very short password",
+    "lableLogin1":"Find even the book you weren't looking for",
+    "lableLogin2":"Your allied bookstore",
+    "email":"Email",
+    "password":"Password",
+    "btnLogin":"Login",
+
+    "noBookSelected":"No book selected",
+
+    "author":"Author",
+    "publisher":"Publisher",
+    "genre":"Genre",
+    "year":"Year",
+    "available_online":"Available online",
+    "available":"Available",
+    "no_available":"Not available",
+    "price":"Price",
+    "summary":"Summary"
+}

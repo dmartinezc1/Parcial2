@@ -1,0 +1,21 @@
+{
+    "msgEmail":"Correo no válido",
+    "msgPass":"Contraseña muy corta",
+    "lableLogin1":"Encuentra hasta el libro que no estabas buscando",
+    "lableLogin2":"Tu librería aliada",
+    "email":"Correo",
+    "password":"Contraseña",
+    "btnlogin":"Ingresar",
+
+    "noBookSelected":"No hay ningún libro seleccionado",
+
+    "author":"Autor",
+    "publisher":"Editorial",
+    "genre":"Género",
+    "year":"Año",
+    "available_online":"Disponible en línea",
+    "available":"Disponible",
+    "no_available":"No disponible",
+    "price":"Precio",
+    "summary":"Resumen"
+}
